@@ -1,0 +1,4 @@
+﻿  Project2-Math Game.cpp
+F:\Programming Advices\Project2-Math Game\Project2-Math Game\Project2-Math Game.cpp(103): warning C4715: 'NumberInlevel': not all control paths return a value
+F:\Programming Advices\Project2-Math Game\Project2-Math Game\Project2-Math Game.cpp(144): warning C4715: 'Calculator': not all control paths return a value
+  Project2-Math Game.vcxproj -> F:\Programming Advices\Project2-Math Game\x64\Debug\Project2-Math Game.exe
